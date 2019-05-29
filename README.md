@@ -1,5 +1,8 @@
 # PKS-Workshop v05-30-2019
-PKS (Pivotal Container Service) - K8s - Kubernetes Workshop on vSphere 6.5
+PKS (Pivotal Container Service) - K8s - Kubernetes Workshop on vSphere
+
+- We will be using PKS 1.4 on OpsManager 2.5 on vSphere 6.5
+- Software bits can be downloaded from http://network.pivotal.io
 
 ## (1) The History of Containers
 
@@ -17,7 +20,20 @@ Mac  Workshop Steps:
 1. `$ mkdir -p /work/pas; cd /work/pas; curl -k http://chess.cfapps.io > index.php; cf push chess`
 2. Using the route provided in the output of the `cf push` command, please verify that your App is running
 
-What have we learned:
+What happened:
 
 1. A single `index.php` file was enough for PAS, using its buildpack process, to run your App in a container
 2. The curated container image creation, instantiation, orchestration, routing, logging, health-monitoring & management were all performed by PAS
+
+How is PAS structured?
+
+# Appendix
+
+CFLinuxFS - CF Linux Filesystem Stacks
+
+- [cflinuxfs2](https://github.com/cloudfoundry/cflinuxfs2/blob/master/cflinuxfs2/cflinuxfs2_receipt)
+- [cflinuxfs3](https://github.com/cloudfoundry/cflinuxfs3/blob/master/receipt.cflinuxfs3.x86_64)
+
+
+
+
