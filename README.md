@@ -12,7 +12,7 @@ Assuming that
 2. you have the [CF CLI](https://github.com/cloudfoundry/cli#installers-and-compressed-binaries) installed on your machine and 
 3. you have already performed the `cf api` and `cf login` comamnds to target an Org and a Space
 
-Workshop Steps:
+Mac  Workshop Steps:
 
 1. `$ mkdir -p /work/pas; cd /work/pas; curl -k http://chess.cfapps.io > index.php; cf push chess`
 2. Using the route provided in the output of the `cf push` command, please verify that your App is running
