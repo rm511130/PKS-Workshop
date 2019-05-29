@@ -10,8 +10,7 @@ PKS (Pivotal Container Service) - K8s - Kubernetes Workshop on vSphere 6.5
 Assuming that 
 1. you have access to a PAS environment (e.g. https://run.pivotal.io or [cf dev](https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry-dev/introduction))  
 2. you have the [CF CLI](https://github.com/cloudfoundry/cli#installers-and-compressed-binaries) installed on your machine and 
-3. you know how to `cf push` App 
-4. you have already performed the `cf api` and `cf login` comamnds to target an Org and a Space
+3. you have already performed the `cf api` and `cf login` comamnds to target an Org and a Space
 
 Workshop Steps:
 
