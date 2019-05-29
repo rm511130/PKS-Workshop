@@ -8,10 +8,10 @@ PKS (Pivotal Container Service) - K8s - Kubernetes Workshop on vSphere 6.5
 ## (2) Quick Test for Comparison Purposes
 
 Assuming that 
-(a) you have access to a PAS environment (e.g. https://run.pivotal.io)  
-(b) you have the [CF CLI](https://github.com/cloudfoundry/cli#installers-and-compressed-binaries) installed on your machine and 
-(c) you know how to `cf push` App 
-(d) you have already performed the `cf api` and `cf login` comamnds to target an Org and a Space
+1. you have access to a PAS environment (e.g. https://run.pivotal.io or [cf dev](https://pivotal.io/platform/pcf-tutorials/getting-started-with-pivotal-cloud-foundry-dev/introduction))  
+2. you have the [CF CLI](https://github.com/cloudfoundry/cli#installers-and-compressed-binaries) installed on your machine and 
+3. you know how to `cf push` App 
+4. you have already performed the `cf api` and `cf login` comamnds to target an Org and a Space
 
 Workshop Steps:
 
@@ -20,6 +20,5 @@ Workshop Steps:
 
 What have we learned:
 
-(a) a single `index.php` file was enough for PAS, using its buildpack process, to run your App in a container
-
-(b) the curated container image creation, instantiation, orchestration, routing, logging, health-monitoring & management were all performed by PAS
+1. A single `index.php` file was enough for PAS, using its buildpack process, to run your App in a container
+2. The curated container image creation, instantiation, orchestration, routing, logging, health-monitoring & management were all performed by PAS
