@@ -40,6 +40,9 @@ Contents of CF Linux Filesystem Stacks
 - [cflinuxfs2](https://github.com/cloudfoundry/cflinuxfs2/blob/master/cflinuxfs2/cflinuxfs2_receipt)
 - [cflinuxfs3](https://github.com/cloudfoundry/cflinuxfs3/blob/master/receipt.cflinuxfs3.x86_64)
 
+Additional Reading
+
+- https://ramitsurana.github.io/awesome-kubernetes/
 
 
 
