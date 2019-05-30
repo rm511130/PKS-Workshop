@@ -31,7 +31,7 @@ How is PAS structured?
 
 ## (3) PKS 1.4 on vSphere Installation
 
-[PKS on vSphere]()
+[PKS on vSphere](https://drive.google.com/open?id=1Jwytpm-kO0trS-5vAUKRssSVCXv98G0o)
 
 # Appendix
 
