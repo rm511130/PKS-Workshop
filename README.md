@@ -33,6 +33,8 @@ How is PAS structured?
 
 [PKS on vSphere](https://drive.google.com/open?id=1Jwytpm-kO0trS-5vAUKRssSVCXv98G0o)
 
+[PKS Workshop](https://github.com/voor/pks-workshop)
+
 # Appendix
 
 Contents of CF Linux Filesystem Stacks
