@@ -29,6 +29,10 @@ How is PAS structured?
 
 [PAS Internals](https://drive.google.com/open?id=1dWy75pocNaejMN9bi3glvX6Gkw1yROfy)
 
+## (3) PKS 1.4 on vSphere Installation
+
+[PKS on vSphere]()
+
 # Appendix
 
 Contents of CF Linux Filesystem Stacks
